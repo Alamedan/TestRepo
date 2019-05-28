@@ -1,0 +1,4 @@
+//This is a test file with a special character in the name.
+public static void main {
+system.out.println("This is a test !")
+}
